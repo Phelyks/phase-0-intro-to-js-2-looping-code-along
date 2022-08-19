@@ -64,6 +64,7 @@ for ([initialization]; [condition]; [iteration]) {
 ```
 
 - Initialization
+
   - Typically used to initialize a **counter** variable.
 - Condition
   - An expression evaluated before each pass through the loop. If this expression
